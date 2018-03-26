@@ -1,6 +1,6 @@
 
 // flash.js
-// Customable jQuery library for web applications flash messages
+// Customizable jQuery library for web applications flash messages
 // Author: Theodoros Georgopoulos
 // Date: March 20, 2018
 // Version: 1.0.0
